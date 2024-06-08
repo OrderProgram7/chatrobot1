@@ -1,89 +1,61 @@
-Shop information
+**Institute:**
 
-Baker:
-Uncle Roger Ng (Exquisite 3-star Michelin star bakery chef)
+* **Name:** Al-Hikmah Islamic Institute (The Wisdom Institute)
+* **Director:** Dr. Aisha Hassan - Renowned Scholar of Islamic Law (Fiqh)
 
-Time open:
-Everyday from 9am to 6pm (Except wednesday)
+**Schedule:**
 
-Website Link:
-(https://chocolate-cakes-kijjl6g.gamma.site/)
+* **Days:** Everyday (Except Wednesdays)
+* **Timings:** 9:00 AM - 6:00 PM
 
-Location of shop:
-Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
-State/province/area - Selangor
-Zip code - 42600
+**Contact:**
 
-Phone Number:
-+60 19-439 5991
+* **Website:** [https://www.alhikmahinstitute.org/](https://www.alhikmahinstitute.org/) (Replace with your actual website)
+* **Phone Number:** +60 19-439 5991
+* **Social Media:** Facebook: @AlHikmahInstitute, Instagram: @alhikmahknowledge
 
-Cake flavours:
-Chocolate (Available)
-Vanilla (Unavailable)
-Strawberry (Unavailable)
-Blueberry (Unavailable)
-Black Forest (Available)
-Dragon Fruit (Available)
+**Course Offerings:**
 
-Icing flavours:
-Chocolate (Available)
-Vanilla (UnAvailable)
-Mint (Available)
-Strawberry (Available)
-Blueberry (Available)
-Cotton Candy (Available)
-Cadburry (Available)
+* **Islamic Knowledge Seminars:**
+    * **Quranic Studies:** Led by Imam Omar Sharif - A captivating Quran reciter and scholar. 
+    * **Islamic Beliefs & Practices:** Taught by Ustazah Maryam Khalid - A renowned Islamic educator known for her engaging teaching style.
+    * **Islamic History:** Presented by Dr. Khalil Ibrahim - A passionate historian specializing in the golden age of Islam.
+    * **Fiqh (Islamic Jurisprudence):** Delivered by Dr. Aisha Hassan (Institute Director) - Offering expert guidance on contemporary Islamic legal issues.
+    * **Contemporary Islamic Issues:** Discussed by Ustaz Muhammad Reza - A young and dynamic scholar known for his insightful perspectives.
+* **Arabic Language Courses:**  (Levels offered - Beginner, Intermediate, Advanced) Taught by native Arabic speakers with extensive experience.
+* **Talks on Comparative Religions:** (Highlight topics covered - e.g., Similarities & Differences between Islam and other religions) Presented by Dr. Sarah Ali - A scholar specializing in interfaith dialogue.
 
-Sizes & Pricing:
-Round cake 6 inch diameter - 30RM (40RM with icing)
-Round cake 8 inch diameter - 50RM (62RM with icing)
-Round cake 10 inch diameter - 80RM (95RM with icing)
-Round cake 12 inch diameter - 115RM (132RM with icing)
-Round cake 14 inch diameter - 155RM (175RM with icing)
-Round cake 16 inch diameter - 200RM (220RM with icing)
-Square cake 6x6 inch size - 40RM (52RM with icing)
-Square cake 8x8 inch size - 70RM (88RM with icing)
-Square cake 10x10 inch size - 110RM (140RM with icing)
-Square cake 12x12 inch size - 155RM (195RM with icing)
-Rectangle cake 6x8 inch size - 50RM (65RM with icing)
-Rectangle cake 8x12 inch size - 100RM (125RM with icing)
-Rectangle cake 12x16 inch size - 200RM (240RM with icing)
-Height is 4 inch for all cakes
+**Seminar Formats (Examples):**
 
-Ordering process:
-Specify cake tier number (accept 1 to 3)
-For each cake, specify which cake and icing flavour
-If cake tier is more than 1, lower cake must have bigger size than upper ones
-Cake tier cannot have different shapes
+* Interactive Lectures
+* Practical Workshops (e.g., Arabic calligraphy)
+* Engaging Discussion Groups
+* Online and In-person Courses
 
-Ingredients:
-All-purpose flour, granulated sugar, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract. (Made from scratch, all locally sourced ingredients)
+**Instructors:**
 
-Programs:
-No cake workshop or decoration classes
-No loyalty program (will soon be implemented)
-No refunds and returns
+* Briefly introduce your instructors and their qualifications as mentioned above.
 
-Promotions:
-[Chocolate Spree] Chocolate cake 20% off (End at 29th March)
+**Registration:**
 
-Tax:
-6% Government tax
+* Register online at [https://www.alhikmahinstitute.org/](https://www.alhikmahinstitute.org/) or by calling +60 19-439 5991.
+* Early bird discounts available!
 
-Icing:
-Icing is applied around each cake (except bottom part)
+**Additional Information:**
 
-Others:
-No vegan/free gluten options
-Order can be made via phone/chatbot (or coming to place)
-Deposit is 80% of the total price
-Do not accept any form of cash
-Tasting appointment can just come to the place directly
-Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
+* **Languages:** Arabic, English, Malay (depending on the seminar/course)
+* **Certificates:** Awarded upon completion of a course or seminar series.
+* **Dress Code:** Modest attire is encouraged.
+* **Facilities:** Spacious classrooms, dedicated library, prayer area, and comfortable common areas.
 
-Other products:
-Candle (2RM for each candle)
-Lighter for candle (3RM)
-Plastic plates (2RM per 12 plates)
-Plastic utensils (spoon & fork) 1RM per tool
-Plastic knife to cut cake (2.5RM)
+**Benefits:**
+
+* Deepen your Islamic knowledge from qualified and experienced instructors.
+* Learn Arabic to strengthen your understanding of Islamic texts.
+* Explore comparative religions and foster interfaith understanding.
+* Connect with a vibrant community of learners and scholars.
+
+**Remember:**
+
+* Feel free to modify the course offerings, teacher names, and benefits to reflect your specific institute. 
+* Keep the information updated with the latest course schedules and instructors.
